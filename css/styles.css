@@ -1,12 +1,19 @@
-/* #region BODY*/
-.body {
-  font-family: Arial, Helvetica, sans-serif;
-  background-color: #fafafa;
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
 }
+/* #region BODY*/
+
+.body {
+  font-family: 'Montserrat', sans-serif;
+    background-color: #fafafa;
+    color: #111111;
+ }
 /* #endregion */
 
 /* #region common*/
-.section-title {
+.section-title { 
 }
 /* #endregion */
 
