@@ -1,48 +1,36 @@
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
-}
-/* #region BODY*/
 
-.body {
-  font-family: 'Montserrat', sans-serif;
-    background-color: #fafafa;
-    color: #111111;
- }
+/* #region HEADER */
+.header {}
+
+.header-container {}
+
+.container {}
+
+.nav {}
+
+.logo {
+    color: rgb(17, 17, 17);
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: -3%;
+    text-align: left;
+}
+
+.logo-icon {}
+
+.nav-list {}
+
+.nav-item {}
+
+.nav-link {}
+
+.socials {}
+
+.socials-item {}
+
+.socials-link {}
+
+.socials-icon {}
 /* #endregion */
-
-/* #region common*/
-.section-title { 
-}
-/* #endregion */
-
-/* BENEFITS */
-
-.benefits {
-}
-.benefits-title {
-}
-.benefits-list {
-}
-.benefits-item {
-}
-.benefits-subtitle {
-}
-.benefits-text {
-}
-
-/* INGRIDIENTS */
-
-.ingredients {
-}
-.ingredients-title {
-}
-.ingredients-list {
-}
-.ingredients-item {
-}
-.ingredients-img {
-}
-.ingredients-subtitle {
-}
